@@ -1,6 +1,6 @@
 # Node-compress-images
 
-Compress images (.png, .jpg, .svg, .gif ) via cl.
+Compress images (.png, .jpg, .svg, .gif ) via cli.
 
 ## Install 
 
