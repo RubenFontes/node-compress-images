@@ -5,11 +5,12 @@ Compress images (.png, .jpg, .svg, .gif ) via cl.
 ## Install 
 
 After cloning the repository, enter the root directory of the folder and from the terminal type: npm init.
-This command will download all modules and packages from the project.
+
 
 ```bash
 $ npm init
 ```
+This command will download all modules and packages from the project
 
 ## To compress
 
