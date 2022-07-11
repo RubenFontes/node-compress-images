@@ -4,17 +4,17 @@ Compress images (.png, .jpg, .svg, .gif ) via cl.
 
 ## Install 
 
-After cloning the repository, enter the root directory of the folder and from the terminal type: npm init.
+After cloning the repository, enter the root directory of the downloaded folder and, in the terminal, type:
 
 
 ```bash
 $ npm init
 ```
-This command will download all modules and packages from the project
+This command will download all modules and packages that are project dependencies
 
 ## To compress
 
-Set image path and size (resolution) in output pixels.
+Set the image path and output size in pixels.
 
 ```bash
 $ node app.js <pathImage> <outputSize>
