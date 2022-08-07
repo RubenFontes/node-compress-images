@@ -10,7 +10,7 @@ After cloning the repository, enter the root directory of the downloaded folder 
 ```bash
 $ npm install
 ```
-This command will download all modules and packages that are project dependencies
+This command will download all modules and packages that are project dependencies.
 
 ## To compress
 
